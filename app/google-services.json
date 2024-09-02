@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183940894123",
+    "project_id": "counter-app-3c75d",
+    "storage_bucket": "counter-app-3c75d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183940894123:android:e81dc95d47bf96080316ee",
+        "android_client_info": {
+          "package_name": "com.example.counterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA41FPKDZrYY1eHXlNarewYq8329j1UDQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
